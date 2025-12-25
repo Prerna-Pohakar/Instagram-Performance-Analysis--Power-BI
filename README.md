@@ -3,31 +3,40 @@ Instagram Performance Analytics Dashboard – Power BI Project
 
 This Power BI dashboard analyzes Instagram performance data to evaluate content effectiveness, audience engagement, reach growth, and follower acquisition over time. The dashboard converts raw social media data into actionable business insights that help content creators and digital marketers optimize posting strategy and improve engagement.
 
+
+
+
 ❓ Business Problem
 
-Instagram generates large volumes of data (posts, impressions, reach, engagement, followers), but without structured analysis:
+1.Instagram generates large volumes of data (posts, impressions, reach, engagement, followers), but without structured analysis:
 
-It is difficult to identify which content formats perform best
+2.It is difficult to identify which content formats perform best
 
-Engagement trends over time are unclear
+3.Engagement trends over time are unclear
 
-Traffic sources driving reach are not measurable
+4.Traffic sources driving reach are not measurable
 
-Growth in followers cannot be linked to content strategy
+5.Growth in followers cannot be linked to content strategy
 
-The objective was to centralize performance metrics and provide a data-driven view of Instagram growth and engagement.
+6.The objective was to centralize performance metrics and provide a data-driven view of Instagram growth and engagement.
+
+
 
 🛠 Tools & Techniques Used
 
-Power BI – Data modeling, DAX measures, interactive visuals
+1.Power BI – Data modeling, DAX measures, interactive visuals
 
-Data Cleaning & Transformation – Power Query
+2.Data Cleaning & Transformation – Power Query
 
-DAX Measures – Engagement rate, total reach, impressions, followers gained
+3.DAX Measures – Engagement rate, total reach, impressions, followers gained
 
-Slicers & Filters – Date range and media type analysis
+4.Slicers & Filters – Date range and media type analysis
+
+
+
 
 📈 Key Analysis & Insights
+
 1️⃣ Overall Performance Summary
 
 8,899 total posts generated
@@ -42,6 +51,7 @@ Average engagement rate: 14.23%, which is considered excellent for Instagram
 
 📌 Insight: High engagement rate combined with large reach indicates quality content with strong audience relevance.
 
+
 2️⃣ Engagement by Media Type
 
 Reels and Videos show the highest engagement contribution
@@ -51,6 +61,7 @@ Carousels perform consistently well
 Photos have slightly lower engagement compared to video formats
 
 📌 Insight: Video-based content is the strongest driver of engagement and should be prioritized.
+
 
 3️⃣ Monthly Reach & Impression Trends
 
@@ -62,6 +73,7 @@ Slight dips indicate seasonal or content-frequency variation
 
 📌 Insight: Posting consistency maintains steady reach, while strategic campaigns can drive spikes.
 
+
 4️⃣ Traffic Source Analysis
 
 Profile, Hashtags, Explore, and Reels Feed contribute almost equally to reach
@@ -69,6 +81,7 @@ Profile, Hashtags, Explore, and Reels Feed contribute almost equally to reach
 External traffic contributes less compared to in-app discovery
 
 📌 Insight: Instagram’s algorithm-driven discovery (Explore & Reels) is a major growth channel.
+
 
 5️⃣ Followers Gained Analysis
 
@@ -78,6 +91,7 @@ Reels and Videos contribute the most to follower acquisition
 
 📌 Insight: Short-form video content is the primary driver of audience growth.
 
+
 6️⃣ Content Category Performance
 
 Photography, Technology, and Lifestyle content all perform well
@@ -85,6 +99,8 @@ Photography, Technology, and Lifestyle content all perform well
 Slight dominance of Photography & Technology in likes distribution
 
 📌 Insight: A balanced content mix keeps engagement diversified and stable.
+
+
 
 🎯 Business Impact & Recommendations
 
@@ -95,6 +111,7 @@ Optimize hashtag and explore-based discovery strategies
 Maintain posting consistency during high-performing months
 
 Use engagement rate as a key KPI to measure content quality
+
 
 ✅ Project Outcome
 
