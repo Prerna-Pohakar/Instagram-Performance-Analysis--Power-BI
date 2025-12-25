@@ -118,4 +118,7 @@ Use engagement rate as a key KPI to measure content quality
 This dashboard provides a 360-degree performance view of Instagram analytics, enabling data-driven decision-making for content planning, audience growth, and engagement optimization. It demonstrates strong skills in Power BI, data analysis, visualization, and business insight generation.
 
 
+![Dashboard Preview]()
+
+
 
