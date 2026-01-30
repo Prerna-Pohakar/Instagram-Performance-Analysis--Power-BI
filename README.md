@@ -1,4 +1,5 @@
 Instagram Performance Analytics Dashboard – Power BI Project
+
 🔍 Project Overview
 
 This Power BI dashboard analyzes Instagram performance data to evaluate content effectiveness, audience engagement, reach growth, and follower acquisition over time. The dashboard converts raw social media data into actionable business insights that help content creators and digital marketers optimize posting strategy and improve engagement.
@@ -116,6 +117,22 @@ Use engagement rate as a key KPI to measure content quality
 ✅ Project Outcome
 
 This dashboard provides a 360-degree performance view of Instagram analytics, enabling data-driven decision-making for content planning, audience growth, and engagement optimization. It demonstrates strong skills in Power BI, data analysis, visualization, and business insight generation.
+
+Overall Summary – Instagram Performance Analytics Dashboard
+
+This dashboard provides a complete performance overview of an Instagram account over the selected time period.
+
+A total of 8,899 posts generated 11 billion impressions and reached 9 billion unique users, showing very strong content visibility.
+
+The account recorded 1 billion total engagements, resulting in a high average engagement rate of 14.23%, which indicates that users are actively interacting with the content.
+
+Overall audience growth is strong, with 4 million new followers gained during the period.
+
+Reels and Videos are the most effective formats for driving engagement and follower growth, while Photography content receives the highest number of likes.
+
+Major reach comes from Hashtags, Explore, and Home Feed, highlighting good algorithm performance and discoverability.
+
+Monthly trends show peak performance in the mid-year months, suggesting successful content strategies or campaigns during that period.
 
 
 ![Dashboard Preview](https://github.com/Prerna-Pohakar/Instagram-Performance-Analysis--Power-BI/blob/main/Instagarm%20Analytics%20Dashboard.png)
